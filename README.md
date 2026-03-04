@@ -5,6 +5,9 @@ This Pygame project simulates the physical and sensory barriers often experience
 
 The project is built modularly, allowing users to experience just the motor dysfunction, or layer on additional visual and auditory distortions.
 
+## 🧠 Relevance to Medical Robotics
+While built as an accessibility simulator, the core mechanics of this project (introducing artificial latency, input jitter, and sensory noise) serve as a practical exploration of sensorimotor control loops. Understanding how human performance degrades under these specific disturbances is highly relevant to designing ergonomic, low-latency teleoperation consoles and intuitive Human-Machine Interfaces (HMI) for medical devices.
+
 ## Tech Stack
 * **Language:** Python 3.x
 * **Library:** Pygame
