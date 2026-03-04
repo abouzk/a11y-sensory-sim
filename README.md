@@ -8,7 +8,7 @@ The project is built modularly, allowing users to experience just the motor dysf
 ## Tech Stack
 * **Language:** Python 3.x
 * **Library:** Pygame
-* *(Add any other libraries you end up using, like NumPy for audio manipulation)*
+* *(To add any other libraries we end up using, like NumPy for audio manipulation)*
 
 ## Development Phases
 
