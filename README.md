@@ -1,4 +1,4 @@
-# Accessibility Experience Simulator
+# Sensorimotor HMI & Accessibility Simulator (Python)
 
 ## Overview
 This Pygame project simulates the physical and sensory barriers often experienced by nonspeaking individuals and those with motor dysfunctions. By artificially introducing motor control limitations and environmental stressors (sensory/cognitive load), this simulator demonstrates how physical barriers can lead to unfair or lowered performance metrics in digital environments.
